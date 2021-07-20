@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845038500932",
+    "project_id": "sarangconnect-24501",
+    "storage_bucket": "sarangconnect-24501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845038500932:android:902868600ecf3680521011",
+        "android_client_info": {
+          "package_name": "com.example.sarangconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845038500932-687ka4r6ssibu0uqop2e3f201vh9i7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JFvGBltyEQAfyoapH2CUBKrqKQaFBbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845038500932-687ka4r6ssibu0uqop2e3f201vh9i7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
